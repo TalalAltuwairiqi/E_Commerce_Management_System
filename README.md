@@ -410,7 +410,7 @@ WHERE p.StockQuantity <> m.TotalChange;
 
 # Talal Altuwairiqi
 
-<a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/talal-altuwairiqi/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://x.com/DEV_Talal"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 <a href="https://github.com/TalalAltuwairiqi"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
