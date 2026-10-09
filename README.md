@@ -28,25 +28,6 @@
 
 ---
 
-## Table of contents
-
-- [Overview](#overview)
-- [Screenshots](#screenshots)
-- [Features](#features)
-- [Architecture](#architecture)
-- [How an order is saved](#how-an-order-is-saved)
-- [Database](#database)
-- [Engineering highlights](#engineering-highlights)
-- [Business rules](#business-rules)
-- [Roles and permissions](#roles-and-permissions)
-- [Getting started](#getting-started)
-- [Data integrity check](#data-integrity-check)
-- [Skills demonstrated](#skills-demonstrated)
-- [Limitations and roadmap](#limitations-and-roadmap)
-- [Author](#author)
-
----
-
 ## Overview
 
 ECMS is used by the staff of a store to manage **customers, products, stock, orders and payments**. Staff sign in with a role, create orders for customers, move each order through its status workflow, record payments, control the inventory and, for admins, read sales reports.
@@ -423,11 +404,12 @@ WHERE p.StockQuantity <> m.TotalChange;
 - [ ] A modern restyled interface
 - [ ] A web API and web front end on the same database
 
-## Author
+## Developed by
 
 **Talal Altuwairiqi**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TalalAltuwairiqi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![X](https://img.shields.io/badge/X-@DEV__Talal-000000?style=flat&logo=x&logoColor=white)](https://x.com/DEV_Talal)
 
 <sub>This is a learning and portfolio project. All sample data is fictional.</sub>
