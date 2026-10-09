@@ -404,14 +404,16 @@ WHERE p.StockQuantity <> m.TotalChange;
 - [ ] A modern restyled interface
 - [ ] A web API and web front end on the same database
 
-## Developed by
+## Developed By
 
-**Talal Altuwairiqi**
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TalalAltuwairiqi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![X](https://img.shields.io/badge/X-%40DEV__Talal-000000?style=flat&logo=x&logoColor=white)](https://x.com/DEV_Talal)
+# Talal Altuwairiqi
 
-Follow me on X: [@DEV_Talal](https://x.com/DEV_Talal)
+<a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://x.com/DEV_Talal"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+<a href="https://github.com/TalalAltuwairiqi"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+
+</div>
 
 <sub>This is a learning and portfolio project. All sample data is fictional.</sub>
