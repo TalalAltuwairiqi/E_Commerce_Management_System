@@ -342,7 +342,7 @@ WHERE ProductID = @ProductID AND IsActive = 1 AND StockQuantity >= @Quantity;
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/TalalAltuwairiqi/ECMS.git
+git clone https://github.com/TalalAltuwairiqi/E_Commerce_Management_System.git
 ```
 
 **2. Create the database.** In SSMS, run the scripts in the `Database` folder in this order: `01_schema.sql`, `02_seed.sql`, `03_views.sql`, `04_procedures.sql`.
