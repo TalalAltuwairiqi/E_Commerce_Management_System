@@ -410,6 +410,8 @@ WHERE p.StockQuantity <> m.TotalChange;
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TalalAltuwairiqi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![X](https://img.shields.io/badge/X-@DEV__Talal-000000?style=flat&logo=x&logoColor=white)](https://x.com/DEV_Talal)
+[![X](https://img.shields.io/badge/X-%40DEV__Talal-000000?style=flat&logo=x&logoColor=white)](https://x.com/DEV_Talal)
+
+Follow me on X: [@DEV_Talal](https://x.com/DEV_Talal)
 
 <sub>This is a learning and portfolio project. All sample data is fictional.</sub>
